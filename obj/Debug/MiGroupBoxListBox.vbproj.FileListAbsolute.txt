@@ -1,0 +1,12 @@
+C:\Users\oswal\source\repos\MiGroupBoxListBox\bin\Debug\MiGroupBoxListBox.exe.config
+C:\Users\oswal\source\repos\MiGroupBoxListBox\bin\Debug\MiGroupBoxListBox.exe
+C:\Users\oswal\source\repos\MiGroupBoxListBox\bin\Debug\MiGroupBoxListBox.pdb
+C:\Users\oswal\source\repos\MiGroupBoxListBox\bin\Debug\MiGroupBoxListBox.xml
+C:\Users\oswal\source\repos\MiGroupBoxListBox\obj\Debug\MiGroupBoxListBox.vbproj.AssemblyReference.cache
+C:\Users\oswal\source\repos\MiGroupBoxListBox\obj\Debug\MiGroupBoxListBox.Form1.resources
+C:\Users\oswal\source\repos\MiGroupBoxListBox\obj\Debug\MiGroupBoxListBox.Resources.resources
+C:\Users\oswal\source\repos\MiGroupBoxListBox\obj\Debug\MiGroupBoxListBox.vbproj.GenerateResource.cache
+C:\Users\oswal\source\repos\MiGroupBoxListBox\obj\Debug\MiGroupBoxListBox.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\MiGroupBoxListBox\obj\Debug\MiGroupBoxListBox.exe
+C:\Users\oswal\source\repos\MiGroupBoxListBox\obj\Debug\MiGroupBoxListBox.xml
+C:\Users\oswal\source\repos\MiGroupBoxListBox\obj\Debug\MiGroupBoxListBox.pdb
